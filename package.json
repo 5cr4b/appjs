@@ -1,0 +1,23 @@
+{
+  "name": "appjs",
+  "version": "1.0.0",
+  "description": "app demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5cr4b/appjs.git"
+  },
+  "author": "nbui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5cr4b/appjs/issues"
+  },
+  "homepage": "https://github.com/5cr4b/appjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
